@@ -39,7 +39,11 @@ dependencies {
 
     implementation 'org.jmrtd:jmrtd:0.5.5'
     //carsevice için denme
-
     implementation 'net.sf.scuba:scuba-sc-android:0.0.9'
+    //
+
+
+    implementation 'androidx.multidex:multidex:2.0.1'
+
 
 }
