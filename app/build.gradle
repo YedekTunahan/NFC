@@ -42,8 +42,8 @@ dependencies {
     implementation 'net.sf.scuba:scuba-sc-android:0.0.9'
     //
 
-
-    implementation 'androidx.multidex:multidex:2.0.1'
+    // izin için
+    implementation 'com.madgag.spongycastle:prov:1.54.0.0'
 
 
 }
